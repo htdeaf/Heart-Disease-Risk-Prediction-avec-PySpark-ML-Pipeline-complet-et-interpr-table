@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1760700287929,"sparkVersion":"3.5.1","uid":"StringIndexer_919cb45b8787","paramMap":{"outputCol":"ECG_Slope_Index","handleInvalid":"keep","inputCol":"ECG_Slope"},"defaultParamMap":{"stringOrderType":"frequencyDesc","handleInvalid":"error","outputCol":"StringIndexer_919cb45b8787__output"}}

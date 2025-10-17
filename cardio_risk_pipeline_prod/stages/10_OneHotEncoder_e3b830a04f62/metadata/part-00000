@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1760700289214,"sparkVersion":"3.5.1","uid":"OneHotEncoder_e3b830a04f62","paramMap":{"outputCol":"Glycemia_Vec","inputCol":"Glycemia_Index"},"defaultParamMap":{"outputCol":"OneHotEncoder_e3b830a04f62__output","handleInvalid":"error","dropLast":true}}

@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1760700290256,"sparkVersion":"3.5.1","uid":"OneHotEncoder_7e75ba961218","paramMap":{"inputCol":"Thalassaemia_Index","outputCol":"Thalassaemia_Vec"},"defaultParamMap":{"handleInvalid":"error","dropLast":true,"outputCol":"OneHotEncoder_7e75ba961218__output"}}

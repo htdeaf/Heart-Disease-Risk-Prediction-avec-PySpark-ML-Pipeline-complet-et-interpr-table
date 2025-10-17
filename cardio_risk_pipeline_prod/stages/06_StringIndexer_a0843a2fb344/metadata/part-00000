@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1760700288328,"sparkVersion":"3.5.1","uid":"StringIndexer_a0843a2fb344","paramMap":{"handleInvalid":"keep","inputCol":"Fluoroscopy","outputCol":"Fluoroscopy_Index"},"defaultParamMap":{"handleInvalid":"error","outputCol":"StringIndexer_a0843a2fb344__output","stringOrderType":"frequencyDesc"}}

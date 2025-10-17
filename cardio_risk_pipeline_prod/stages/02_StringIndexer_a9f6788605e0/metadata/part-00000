@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1760700286725,"sparkVersion":"3.5.1","uid":"StringIndexer_a9f6788605e0","paramMap":{"outputCol":"Glycemia_Index","handleInvalid":"keep","inputCol":"Glycemia"},"defaultParamMap":{"outputCol":"StringIndexer_a9f6788605e0__output","handleInvalid":"error","stringOrderType":"frequencyDesc"}}

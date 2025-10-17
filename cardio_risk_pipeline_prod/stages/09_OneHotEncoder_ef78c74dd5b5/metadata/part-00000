@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1760700289040,"sparkVersion":"3.5.1","uid":"OneHotEncoder_ef78c74dd5b5","paramMap":{"outputCol":"Angina_Vec","inputCol":"Angina_Index"},"defaultParamMap":{"handleInvalid":"error","outputCol":"OneHotEncoder_ef78c74dd5b5__output","dropLast":true}}

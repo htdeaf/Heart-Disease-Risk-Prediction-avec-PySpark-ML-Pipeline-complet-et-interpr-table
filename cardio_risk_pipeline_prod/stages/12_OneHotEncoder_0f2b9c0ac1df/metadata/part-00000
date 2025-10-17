@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1760700289620,"sparkVersion":"3.5.1","uid":"OneHotEncoder_0f2b9c0ac1df","paramMap":{"inputCol":"Angina_After_Sport_Index","outputCol":"Angina_After_Sport_Vec"},"defaultParamMap":{"handleInvalid":"error","dropLast":true,"outputCol":"OneHotEncoder_0f2b9c0ac1df__output"}}

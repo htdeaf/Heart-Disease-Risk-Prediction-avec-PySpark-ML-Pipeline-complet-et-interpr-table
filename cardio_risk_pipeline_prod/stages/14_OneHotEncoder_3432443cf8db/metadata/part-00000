@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1760700290064,"sparkVersion":"3.5.1","uid":"OneHotEncoder_3432443cf8db","paramMap":{"outputCol":"Fluoroscopy_Vec","inputCol":"Fluoroscopy_Index"},"defaultParamMap":{"dropLast":true,"outputCol":"OneHotEncoder_3432443cf8db__output","handleInvalid":"error"}}

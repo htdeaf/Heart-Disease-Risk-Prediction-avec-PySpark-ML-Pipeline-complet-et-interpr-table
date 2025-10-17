@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1760700288541,"sparkVersion":"3.5.1","uid":"StringIndexer_90495e2038d0","paramMap":{"outputCol":"Thalassaemia_Index","inputCol":"Thalassaemia","handleInvalid":"keep"},"defaultParamMap":{"outputCol":"StringIndexer_90495e2038d0__output","handleInvalid":"error","stringOrderType":"frequencyDesc"}}

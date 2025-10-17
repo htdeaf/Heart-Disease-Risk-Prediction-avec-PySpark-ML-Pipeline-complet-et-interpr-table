@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1760700289866,"sparkVersion":"3.5.1","uid":"OneHotEncoder_fb166b652974","paramMap":{"outputCol":"ECG_Slope_Vec","inputCol":"ECG_Slope_Index"},"defaultParamMap":{"handleInvalid":"error","dropLast":true,"outputCol":"OneHotEncoder_fb166b652974__output"}}
